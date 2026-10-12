@@ -1,0 +1,7 @@
+{
+  "rewrites": [
+    { "source": "/his-story", "destination": "/index.html" },
+    { "source": "/in-the-media", "destination": "/index.html" },
+    { "source": "/get-involved", "destination": "/index.html" }
+  ]
+}
